@@ -13,7 +13,6 @@ Designed with a **dark blue luxury theme**, smooth animations, responsive layout
 - 🖼️ **Collections Showcase** with hover zoom effect
 - 💌 **Newsletter Subscription Form** with interactive success state
 - 🌙 **Dark Blue Gradient Theme** for a luxury aesthetic
-- ⚡ Lightweight — no frameworks, just HTML, CSS, and JS
 
 
 ## 📸 Screenshots
@@ -33,6 +32,3 @@ Designed with a **dark blue luxury theme**, smooth animations, responsive layout
 - **CSS3** – Flexbox, Grid, media queries, smooth animations
 - **Vanilla JavaScript** – mobile nav toggle, smooth scroll, form interaction
 - **PixlBay/Unsplash Images** – modern high-quality fashion backgrounds
-
-
-## 📂 Project Structure
