@@ -23,8 +23,8 @@ Designed with a **dark blue luxury theme**, smooth animations, responsive layout
 ### 👜 Collections Section
 ![Collections Screenshot](screenshots/collections.png)
 
-### 📱 Mobile Menu
-![Mobile Menu Screenshot](screenshots/mobile-menu.png)
+### 📱 Footer
+![Footer Screenshot](screenshots/bottom.png)
 
 
 ## 🛠️ Tech Stack
