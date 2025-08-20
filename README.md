@@ -3,13 +3,8 @@
 A **modern fashion landing page** built with **pure HTML, CSS, and JavaScript**.  
 Designed with a **dark blue luxury theme**, smooth animations, responsive layout, and interactive elements to give the feel of a premium fashion brand.
 
----
-
 ## 🌐 Live Demo
-👉 [View Demo](https://your-deployment-link.com)  
-*(Replace with your GitHub Pages / Vercel / Netlify link)*
-
----
+👉 [View Demo](https://landing-rho-red.vercel.app/)  
 
 ## 🚀 Features
 - 🎨 **Full-screen Hero Section** with a high-quality fashion background
@@ -20,7 +15,6 @@ Designed with a **dark blue luxury theme**, smooth animations, responsive layout
 - 🌙 **Dark Blue Gradient Theme** for a luxury aesthetic
 - ⚡ Lightweight — no frameworks, just HTML, CSS, and JS
 
----
 
 ## 📸 Screenshots
 
@@ -33,14 +27,12 @@ Designed with a **dark blue luxury theme**, smooth animations, responsive layout
 ### 📱 Mobile Menu
 ![Mobile Menu Screenshot](screenshots/mobile-menu.png)
 
----
 
 ## 🛠️ Tech Stack
 - **HTML5** – semantic structure
 - **CSS3** – Flexbox, Grid, media queries, smooth animations
 - **Vanilla JavaScript** – mobile nav toggle, smooth scroll, form interaction
-- **Unsplash Images** – modern high-quality fashion backgrounds
+- **PixlBay/Unsplash Images** – modern high-quality fashion backgrounds
 
----
 
 ## 📂 Project Structure
